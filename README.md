@@ -1,5 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Rohit Pakhrin </h1>
 
+<img src="https://komarev.com/ghpvc/?username=roitpak&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="roitpak" />
+
 <!-- ![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif) -->
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
